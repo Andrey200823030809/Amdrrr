@@ -18,7 +18,7 @@ int main(void)
         if (povtor == 0) {
             a[n] = x;
             n++;
-            fprintf(g, "%lf ", x);
+            fprintf(g, "%g\n", x);
         }
     }
 
